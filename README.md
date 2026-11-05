@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard exploring reported daily Air Quality Index (AQI) patterns across North Carolina counties in 2025.
 
-**Published Streamlit application:** Add your URL here after deployment: `https://YOUR-APP-NAME.streamlit.app/`
+**Published Streamlit application:** https://nc-air-quality-explorer.streamlit.app/
 
 ## Project and audience
 
@@ -69,4 +69,4 @@ streamlit run app.py
 
 ## Generative AI use
 
-ChatGPT assisted with Streamlit application structure, coding, chart implementation, and documentation. The project questions and source dataset were selected for this course project; the student is responsible for reviewing the analysis, testing the deployed application, and interpreting and presenting the findings.
+AI tools assisted with boilerplate structuring, debugging, and drafting this documentation. The project design, dataset curation, code validation, and interpretations are my own.
