@@ -50,14 +50,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Deploy on Streamlit Community Cloud
-
-1. Upload the four files to a **public** GitHub repository.
-2. Sign in at [share.streamlit.io](https://share.streamlit.io/) with GitHub.
-3. Choose **Create app**, select your repository and branch, and use `app.py` as the main file.
-4. Deploy, then replace the placeholder URL near the top of this README with your published app link.
-5. Test all filters, metrics, and visualizations in the public app.
-
 ## Interpretation notes and limitations
 
 - Only 34 of North Carolina's 100 counties have records in this EPA file. **Missing counties are not equivalent to good air quality.**
